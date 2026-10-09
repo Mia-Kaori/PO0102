@@ -19,3 +19,7 @@ Esta práctica consiste en la instalación de paquete Cockpit.
    Windows (anfitrión)
    192.168.100.1/24
 ```
+
+
+#Actualizamos los repositorios
+<image src="imagenes/1.png">
