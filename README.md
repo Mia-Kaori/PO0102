@@ -11,7 +11,7 @@ Esta práctica consiste en la instalación de paquete Cockpit.
 ┌────────────┴─────────────┐
 │   Ubuntu Server (VM)     │
 │  enp0s3 → 10.0.2.15/24   │
-│  enp0s8 → 192.168.100.0/24│
+│  enp0s8 → 192.168.100.2/24│
 └────────────┬─────────────┘
              │
  Adaptador 2 · solo-anfitrión
