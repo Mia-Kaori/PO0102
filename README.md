@@ -1,4 +1,4 @@
-# PO0102 - Instlación de Cockpit en Ubuntu Server
+# PO0102 - Instalación de Cockpit en Ubuntu Server
 
 Esta práctica consiste en la instalación de paquete Cockpit.
 ## Entorno de trabajo
