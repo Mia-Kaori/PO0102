@@ -28,7 +28,7 @@ Esta práctica consiste en la instalación de paquete Cockpit.
 ├── imagenes
 └── scripts
     ├── .env
-    └── webmin-install.sh
+    └── cockpit-install.sh
 ```
 
 ## Comprobamos la red
